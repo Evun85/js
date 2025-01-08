@@ -47,5 +47,12 @@
         "availability": "Ongoing",
         "rating": 3.8,
         "website": "https://lunexnetwork.com/"
+    },
+        {
+        "projectName": "",
+        "tokenSymbol": "",
+        "availability": "",
+        "rating": ,
+        "website": ""
     }
 ]
