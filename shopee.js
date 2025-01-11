@@ -29,6 +29,18 @@ const links = [
     "https://s.shopee.com.my/20dp4qWP6p",
     "https://s.shopee.com.my/3fm33svWlm",
     "https://s.shopee.com.my/1VhYTrmz83",
+    "https://s.shopee.com.my/30YFxTKiJl",
+    "https://s.shopee.com.my/8fCchruayw",
+    "https://s.shopee.com.my/ueNvkLd5",
+    "https://s.shopee.com.my/5fZ18KTZyx",
+    "https://s.shopee.com.my/4AkDLWnlko",
+    "https://s.shopee.com.my/9KSJV0QF2y",
+    "https://s.shopee.com.my/704OihPpqs",
+    "https://s.shopee.com.my/50JKKzmLku",
+    "https://s.shopee.com.my/50JKKz3wMC",
+    "https://s.shopee.com.my/gAGvGUfYt",
+    "https://s.shopee.com.my/3fnsUkkSGZ",
+    "https://s.shopee.com.my/40QitKS3FK",
     "https://s.shopee.com.my/9zgKpayKyv"
 ];
 
