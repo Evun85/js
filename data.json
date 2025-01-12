@@ -47,6 +47,13 @@
         "availability": "Ongoing",
         "rating": 3.8,
         "website": "https://lunexnetwork.com/"
+    },
+        {
+        "projectName": "1 FUEL",
+        "tokenSymbol": "$1FUEL",
+        "availability": "Ongoing",
+        "rating": 4,
+        "website": "https://presale.1fuel.io/invite?ref=UD03179"
     }
 
 ]
