@@ -76,3 +76,8 @@ const links = [
         const randomLink = links[Math.floor(Math.random() * links.length)];
         window.open(randomLink, '_blank');
     }
+
+    window.onload = function () {
+        const popup = document.getElementById('popup');
+        popup.style.display = 'flex';
+    };
