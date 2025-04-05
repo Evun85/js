@@ -1,0 +1,54 @@
+[
+
+    {
+        "projectName": "PEPE Arab",
+        "tokenSymbol": "$PEAB",
+        "availability": "Ongoing",
+        "rating": 3.2,
+        "website": "https://www.pepearab.com/"
+    },
+    {
+        "projectName": "PEPE Ascension",
+        "tokenSymbol": "$PEAP",
+        "availability": "Ongoing",
+        "rating": 3.3,
+        "website": "https://pepeascension.com/?ref=lGBOusXkjV"
+    },
+    {
+        "projectName": "Artic Pablo",
+        "tokenSymbol": "$APC",
+        "availability": "Ongoing",
+        "rating": 3.9,
+        "website": "https://arcticpablo.com/buy-now?referral_code=PW5Eyr3wsO8J"
+    },
+    {
+        "projectName": "Troller Cat",
+        "tokenSymbol": "$TCAT",
+        "availability": "Whitelist",
+        "rating": 4,
+        "website": "https://www.trollercat.com/"
+    },
+    {
+        "projectName": "Influencer PEPE",
+        "tokenSymbol": "$INPEPE",
+        "availability": "Ongoing",
+        "rating": 3.5,
+        "website": "https://influencerpepe.com/en"
+    },
+    {
+        "projectName": "PEPEX",
+        "tokenSymbol": "$pepex",
+        "availability": "Ongoing",
+        "rating": 3,
+        "website": "https://pepex.fun/"
+    },
+    {
+        "projectName": "Larva to Moon",
+        "tokenSymbol": "$LARVA",
+        "availability": "Ongoing",
+        "rating": 3.4,
+        "website": "https://larvatomoon.com/"
+    }
+   
+
+]
